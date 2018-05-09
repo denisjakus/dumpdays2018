@@ -7,6 +7,6 @@ namespace Workshop.Interfaces
 {
     public interface ISQLiteDb
     {
-        SQLiteAsyncConnection GetSqliteConnection();
+        SQLiteConnection GetSqliteConnection();
     }
 }

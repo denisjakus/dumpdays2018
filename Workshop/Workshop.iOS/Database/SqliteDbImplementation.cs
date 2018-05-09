@@ -13,12 +13,12 @@ namespace Workshop.iOS.Database
 {
     public class SqliteDbImplementation : ISQLiteDb
     {
-        public SQLiteAsyncConnection GetSqliteConnection()
+        public SQLiteConnection GetSqliteConnection()
         {
             var documentsPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
             var path = Path.Combine(documentsPath, "DumpDays.db3");
 
-            return new SQLiteAsyncConnection(path);
+            return new SQLiteConnection(path);
         }
     }
 }

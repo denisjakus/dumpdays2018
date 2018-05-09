@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ViewCell xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Workshop.CustomControl.DateCell">
+
+    <StackLayout Orientation="Horizontal" VerticalOptions="Center">
+        <Label Text="{Binding EnterText}" VerticalOptions="Center"></Label>
+        <DatePicker Date="1 Jan 2018" HorizontalOptions="EndAndExpand"></DatePicker>
+    </StackLayout>
+
+</ViewCell>

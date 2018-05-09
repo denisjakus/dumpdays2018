@@ -23,6 +23,8 @@ namespace Workshop.Droid
 
             global::Xamarin.Forms.Forms.Init(this, bundle);
 
+            Xamarin.FormsMaps.Init();
+
             DependencyService.Register<SqliteDbImplementation>();
 
             LoadApplication(new App());

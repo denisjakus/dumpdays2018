@@ -4,9 +4,18 @@
              x:Class="Workshop.ListPage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <ListView x:Name="postListView" ItemSelected="ListViewItem_Selected">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding Headline}">
+                            <TextCell.ContextActions>
+                                <MenuItem Text="Edit" Clicked="EditContextAction_Clicked" CommandParameter="{Binding .}"></MenuItem>
+                                <MenuItem Text="Delete" Clicked="DeleteContextAction_Clicked" IsDestructive="True" CommandParameter="{Binding .}"></MenuItem>
+                            </TextCell.ContextActions>
+                        </TextCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

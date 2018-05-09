@@ -17,12 +17,12 @@ namespace Workshop.Droid.Database
 {
     public class SqliteDbImplementation : ISQLiteDb
     {
-        public SQLiteAsyncConnection GetSqliteConnection()
+        public SQLiteConnection GetSqliteConnection()
         {
             var documentsPath = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal);
             var path = Path.Combine(documentsPath, "DumpDays.db3");
 
-            return new SQLiteAsyncConnection(path);
+            return new SQLiteConnection(path);
         }
     }
 }
