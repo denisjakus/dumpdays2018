@@ -1,0 +1,17 @@
+C:\Users\Z002VA2A\Desktop\DUMP\Workshop\Workshop\Workshop\obj\Debug\netstandard2.0\Workshop.csprojResolveAssemblyReference.cache
+C:\Users\Z002VA2A\Desktop\DUMP\Workshop\Workshop\Workshop\obj\Debug\netstandard2.0\Workshop.csproj.CoreCompileInputs.cache
+C:\Users\Z002VA2A\Desktop\DUMP\Workshop\Workshop\Workshop\obj\Debug\netstandard2.0\Workshop.AddNewListItem.xaml.g.cs
+C:\Users\Z002VA2A\Desktop\DUMP\Workshop\Workshop\Workshop\obj\Debug\netstandard2.0\Workshop.App.xaml.g.cs
+C:\Users\Z002VA2A\Desktop\DUMP\Workshop\Workshop\Workshop\obj\Debug\netstandard2.0\Workshop.EditListItem.xaml.g.cs
+C:\Users\Z002VA2A\Desktop\DUMP\Workshop\Workshop\Workshop\obj\Debug\netstandard2.0\Workshop.ListPage.xaml.g.cs
+C:\Users\Z002VA2A\Desktop\DUMP\Workshop\Workshop\Workshop\obj\Debug\netstandard2.0\Workshop.LoginPage.xaml.g.cs
+C:\Users\Z002VA2A\Desktop\DUMP\Workshop\Workshop\Workshop\obj\Debug\netstandard2.0\Workshop.MainPage.xaml.g.cs
+C:\Users\Z002VA2A\Desktop\DUMP\Workshop\Workshop\Workshop\obj\Debug\netstandard2.0\Workshop.MapPage.xaml.g.cs
+C:\Users\Z002VA2A\Desktop\DUMP\Workshop\Workshop\Workshop\obj\Debug\netstandard2.0\Workshop.RestPage.xaml.g.cs
+C:\Users\Z002VA2A\Desktop\DUMP\Workshop\Workshop\Workshop\obj\Debug\netstandard2.0\Workshop.AssemblyInfoInputs.cache
+C:\Users\Z002VA2A\Desktop\DUMP\Workshop\Workshop\Workshop\obj\Debug\netstandard2.0\Workshop.AssemblyInfo.cs
+C:\Users\Z002VA2A\Desktop\DUMP\Workshop\Workshop\Workshop\obj\Debug\netstandard2.0\Workshop.dll
+C:\Users\Z002VA2A\Desktop\DUMP\Workshop\Workshop\Workshop\obj\Debug\netstandard2.0\Workshop.pdb
+C:\Users\Z002VA2A\Desktop\DUMP\Workshop\Workshop\Workshop\bin\Debug\netstandard2.0\Workshop.deps.json
+C:\Users\Z002VA2A\Desktop\DUMP\Workshop\Workshop\Workshop\bin\Debug\netstandard2.0\Workshop.dll
+C:\Users\Z002VA2A\Desktop\DUMP\Workshop\Workshop\Workshop\bin\Debug\netstandard2.0\Workshop.pdb
